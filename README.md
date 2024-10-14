@@ -3,7 +3,7 @@
 Welcome to the Grocery App! This Flutter application is designed to make grocery shopping easier and more enjoyable. With a user-friendly interface and efficient navigation, users can explore various grocery items.
 
 ->Features
-  . Responsive Design: The app is optimized for both mobile and tablet devices,       ensuring a smooth user experience across all screen sizes.
+  . Responsive Design: The app is optimized for both mobile and tablet devices,ensuring a smooth user experience across all screen sizes.
   . Custom Widgets: Utilizes reusable custom widgets for a consistent and elegant UI.
   . Grocery Item Listings: Browse a wide variety of grocery items with detailed descriptions and images.
 
